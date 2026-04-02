@@ -12,7 +12,9 @@
 ## 🔭 What I'm Working On
 - Lab 0: Introduction to GitHub
 - Building my first repositories
-
+  
+## 🎯 My Favorite Hobby
+- ⚽ Football / Gaming / Music 
 
 ## 📫 How to Reach Me
 - GitHub: [@thamerhannachi](https://github.com/thamerhannachi)
